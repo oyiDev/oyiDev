@@ -35,9 +35,6 @@
 <h1></h1>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tabiano&show_icons=true&locale=en&layout=compact" alt="tabiano" />
-</p>
-<p>
-  
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Tabiano)
+  <img align="left" src="https://streak-stats.demolab.com/?user=Tabiano&theme=dark" alt="tabiano" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tabiano&show_icons=true&locale=en&layout=compact&theme=dark" alt="tabiano" />
 </p>
