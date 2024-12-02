@@ -36,7 +36,6 @@
 </h1>
     
 <p>
-  <img align="left" src="https://streak-stats.demolab.com/?user=Tabiano&theme=dark" alt="tabiano" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tabiano&show_icons=true&locale=en&layout=compact&theme=dark" alt="tabiano" />
-  <img align="left" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)"/>
+  <img align="left" src="https://streak-stats.demolab.com/?user=oyiDev&theme=dark" alt="tabiano" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyiDev&show_icons=true&locale=en&layout=compact&theme=dark" alt="tabiano" />
 </p>
