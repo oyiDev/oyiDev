@@ -2,14 +2,9 @@
 ### Starting the Journey in Software Development
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Tabiano.visitor-badge)
 
-![Starting the Journey in Software Development](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)
-
 #### Hello! I'm a passionate programmer who loves exploring the endless possibilities of code. From my first "Hello, World!" to complex algorithms, programming is my way of creating intricate digital universes where logic meets creativity
-- 🌱 I’m currently learning React 
-- 💬 Ask me about My self 
+- 🌱 I’m currently learning React
 - 📫 How to reach me: tabianoronnie1412@gmail.com
-- 🎥 When I'm not coding, you'll find me immersed in the captivating worlds of anime and movies.
-- 🚀 My goal is to merge my love for programming and narrative to create interactive stories that captivate and inspire, just like my favorite animes and films.
   
 #### Let's build something amazing together! 🌟
 <h1></h1>
